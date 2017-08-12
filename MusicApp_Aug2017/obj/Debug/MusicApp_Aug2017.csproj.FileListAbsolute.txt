@@ -82,3 +82,5 @@ C:\Users\HP\Documents\Visual Studio 2015\Projects\MusicApp_Aug2017\MusicApp_Aug2
 C:\Users\HP\Documents\Visual Studio 2015\Projects\MusicApp_Aug2017\MusicApp_Aug2017\obj\Debug\MusicApp_Aug2017.pdb
 C:\Users\HP\Documents\Visual Studio 2015\Projects\MusicApp_Aug2017\MusicApp_Aug2017\obj\Debug\MusicApp_Aug2017.Migrations.InitialModel.resources
 C:\Users\HP\Documents\Visual Studio 2015\Projects\MusicApp_Aug2017\MusicApp_Aug2017\obj\Debug\MusicApp_Aug2017.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\MusicApp_Aug2017\MusicApp_Aug2017\obj\Debug\MusicApp_Aug2017.Migrations.CreateGigTable.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\MusicApp_Aug2017\MusicApp_Aug2017\obj\Debug\MusicApp_Aug2017.Migrations.OverrideConventionsForGigsAndGenres.resources
